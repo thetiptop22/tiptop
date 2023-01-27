@@ -1,1 +1,1 @@
-console.log("Hello World from deployhq");
+console.log("Hello World from deployhq 2");
